@@ -29,6 +29,12 @@ Once all the earlier-placed cups are filled, the pump will travel to your cup an
 
 - The belt system should always be kept clear of obstructions for successful operation.
 
+**Future Work:**
+
+-   A more efficient version of our system would include a pump capable of pumping water at a much faster rate than the current peristaltic pump used. 
+
+-   Add a second stabilizing rod for the belt connector to keep that part from rotating.
+
 - The cup coasters/weight sensors should be kept clear of obstructions other than cups, for successful operation.
 
 - The current system is designated to work **only** with standardized red solo cups
