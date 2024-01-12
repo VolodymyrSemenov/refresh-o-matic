@@ -22,7 +22,7 @@ Once all the earlier-placed cups are filled, the pump will travel to your cup an
 
 4) To deactivate the system, unplug the 12V adapter from the power supply.
 
-**Notices:**
+## Notes:
 
 - You may remove the cup prematurely and the pump will cease its operation.
 
@@ -33,7 +33,7 @@ Once all the earlier-placed cups are filled, the pump will travel to your cup an
 
 - The current system is designated to work **only** with standardized red solo cups, but the system code can be adjusted to support addition-sized cups and different desired pour amounts.
 
-**Future Work:**
+## Future Work:
 
 - A more efficient version of our system would include a pump capable of pumping water at a much faster rate than the current peristaltic pump used. 
 
