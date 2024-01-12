@@ -28,15 +28,12 @@ Once all the earlier-placed cups are filled, the pump will travel to your cup an
 - An **emergency stop button** is located on the top right side of the robot backboard should you need to stop the system for any reason.
 
 - The belt system should always be kept clear of obstructions for successful operation.
+- The cup coasters/weight sensors should be kept clear of obstructions other than cups, for successful operation.
+
+- The current system is designated to work **only** with standardized red solo cups, but the system code can be adjusted to support addition-sized cups and different desired pour amounts.
 
 **Future Work:**
 
--   A more efficient version of our system would include a pump capable of pumping water at a much faster rate than the current peristaltic pump used. 
+- A more efficient version of our system would include a pump capable of pumping water at a much faster rate than the current peristaltic pump used. 
 
--   Add a second stabilizing rod for the belt connector to keep that part from rotating.
-
-- The cup coasters/weight sensors should be kept clear of obstructions other than cups, for successful operation.
-
-- The current system is designated to work **only** with standardized red solo cups
-
-- The system code can be adjusted to support addition-sized cups and different desired pour amounts.
+- Add a second stabilizing rod for the belt connector to keep that part from rotating.
