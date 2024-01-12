@@ -8,7 +8,7 @@ Authors: Volodymyr Semenov, Vasilisa Ignatova
 Refresh-o-Matic is a drink dispensing system created with the goal of automating the process of filling and refilling drinks at a social event. The system seeks to accurately identify empty and partially filled cups given to the system and fill those cups while operating on a first-come-first-serve basis. 
 
 ## BOM
-- [Arduino](https://store.arduino.cc/products/uno-r4-wifi)
+- [Arduino UNO R4](https://store.arduino.cc/products/uno-r4-wifi)
 - [Strain Gauges + HX711 Amplifier](https://www.amazon.com/dp/B07BGRDKG5?psc=1&ref=ppx_yo2ov_dt_b_product_details)
 - Breadboard
 - Wires
@@ -23,6 +23,12 @@ Refresh-o-Matic is a drink dispensing system created with the goal of automating
 - 10k+ Ohm Resistors
 - 100 uF Capacitor
 - 2-Pin Push Buttons
+- Wood
+- Screws and Bolts
+
+## Tools
+- 3D Printer
+- Arduino IDE
 
 ## Operation:
 
