@@ -19,7 +19,7 @@ The system will sense the presence of the cup as well as the amount of liquid lo
 
 Once all the earlier-placed cups are filled, the pump will travel to your cup and your drink will be poured, after which you can remove the cup from its position.
 
-4) To deactivate the system, unplug the 12V adapter from the power supply
+4) To deactivate the system, unplug the 12V adapter from the power supply.
 
 **Notices:**
 
