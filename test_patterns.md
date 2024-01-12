@@ -5,7 +5,7 @@
 Expected Behavior: Pump shuts off when the emergency stop button is pressed by the user
 
 Result: PASS
-<br><br/>
+
 ### Test 2: Emergency stop button stops Pump
 
 Expected Behavior: Stepper shuts off when the emergency stop button is pressed by the user.
