@@ -1,4 +1,4 @@
-#Test Patterns
+# Test Patterns
 
 Test: Emergency stop button stops Stepper Motor
 Expected Behavior: Pump shuts off when the emergency stop button is pressed by the user
