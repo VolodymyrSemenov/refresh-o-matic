@@ -1,15 +1,6 @@
-# servo-o-matic
+**Refresh-o-Matic:**
 Authors: Volodymyr Semenov, Vasilisa Ignatova
-
-Date: 11/28/2023
-
-Class: CSE321
-
-Project Name: Refresh-o-Matic
-
-Document Name: Readme
-
-**Refresh-o-Matic:**                                                                                                                 
+                                                                                                       
 
 ![](file:////Users/volodymyrsemenov/Library/Group%20Containers/UBF8T346G9.Office/TemporaryItems/msohtmlclip/clip_image002.jpg)
 
