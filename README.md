@@ -3,7 +3,7 @@
 Authors: Volodymyr Semenov, Vasilisa Ignatova
 
                                                                                                        
-![robot_img](images/labaled_robot.png)
+![robot_img](images/labeled_robot.png)
 
 Refresh-o-Matic is a drink dispensing system created with the goal of automating the process of filling and refilling drinks at a social event. The system seeks to accurately identify empty and partially filled cups given to the system and fill those cups while operating on a first-come-first-serve basis. 
 
