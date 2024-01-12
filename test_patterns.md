@@ -1,18 +1,18 @@
 # Test Patterns
 
-Test: Emergency stop button stops Stepper Motor
+### Test 1: Emergency stop button stops Stepper Motor
 
 Expected Behavior: Pump shuts off when the emergency stop button is pressed by the user
 
 Result: PASS
 <br><br/>
-Test: Emergency stop button stops Pump
+### Test 2: Emergency stop button stops Pump
 
 Expected Behavior: Stepper shuts off when the emergency stop button is pressed by the user.
 
 Result: PASS
 <br><br/>
-Test: Cup queue maintained
+### Test 3: Cup queue maintained
 
 Expected Behavior: If the cups are placed in sensor order 3, 1, 2 then the motor will travel to those locations in that order.
 
