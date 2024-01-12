@@ -1,13 +1,14 @@
-**Refresh-o-Matic:**
+# Refresh-o-Matic:
 
 Authors: Volodymyr Semenov, Vasilisa Ignatova
 
                                                                                                        
 ![robot_img](images/labeled_robot.png)
 
+## Project Overview
 Refresh-o-Matic is a drink dispensing system created with the goal of automating the process of filling and refilling drinks at a social event. The system seeks to accurately identify empty and partially filled cups given to the system and fill those cups while operating on a first-come-first-serve basis. 
 
-**Operation:**
+## Operation:
 
 1) Prior to activating the system, the stepper has to be manually put at the zero position. To calibrate the stepper motor, manually move the belt connector to the middle of the backboard/at the position of the middle cup coaster.
 
