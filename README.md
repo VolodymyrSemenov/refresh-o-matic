@@ -1,7 +1,8 @@
 **Refresh-o-Matic:**
 
 Authors: Volodymyr Semenov, Vasilisa Ignatova
-                                                                                                       
+
+                                                                                                       
 ![robot_img](robot_img.png)
 
 The Refresh-o-Matic robot is a drink dispensing system created with the goal of filling and refilling cups placed by the user.
